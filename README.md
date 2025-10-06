@@ -1,2 +1,2 @@
 # BroCode
-Medassist - The application used to summarize the medical reports.
+Med assist - The application used to summarize the medical reports.
